@@ -1,0 +1,14 @@
+{
+  "appId": "com.manthan.healthlog",
+  "appName": "Health Tracker",
+  "webDir": "dist",
+  "backgroundColor": "#131C27",
+  "plugins": {
+    "StatusBar": {
+      "overlaysWebView": true
+    }
+  },
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}

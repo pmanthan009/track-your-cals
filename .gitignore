@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Build output (contains API keys inlined at build time)
+dist/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Android release artifacts and signing
+android/app/release/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
