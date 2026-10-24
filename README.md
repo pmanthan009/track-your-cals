@@ -1,4 +1,4 @@
-# Health Tracker (NutriLog)
+# Health Tracker (Track Your Cals)
 
 A mobile-first calorie and nutrition tracker built with React + Vite and packaged as an Android app with Capacitor. You can log a meal by snapping a photo or typing a description, and an AI model estimates calories and macros for you.
 
